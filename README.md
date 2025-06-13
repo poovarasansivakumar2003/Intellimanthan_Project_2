@@ -41,8 +41,8 @@ This tool is not a substitute for professional medical advice, diagnosis, or tre
 ## 👨‍💻 **Team Members**
 | Name              | Role      | GitHub Profile                                                                                 |
 |-------------------|-----------|------------------------------------------------------------------------------------------------|
-| **Divyarani G M** | Developer | [GitHub](https://github.com/divyaranigm0354 "Directed to Shreya Nayak's GitHub Profile")       |
-| **Subham Panda**  | Developer | [GitHub](https://github.com/Panda1304 "Directed to Sindhu's GitHub Profile")                   |
+| **Divyarani G M** | Developer | [GitHub](https://github.com/divyaranigm0354 "Directed to Divyarani G M's GitHub Profile")       |
+| **Subham Panda**  | Developer | [GitHub](https://github.com/Panda1304 "Directed to Subham Panda's GitHub Profile")                   |
 | **Poovarasan S**  | Developer | [GitHub](https://github.com/poovarasansivakumar2003 "Directed to Poovarasan's GitHub Profile") |
 
 ---
